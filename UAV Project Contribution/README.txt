@@ -1,4 +1,4 @@
-Folders are independent of main API code 
+This is my contribution in the API under development for the UAV project
 
 API-->
 
