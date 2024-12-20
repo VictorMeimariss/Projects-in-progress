@@ -1,6 +1,6 @@
-This is my contribution in the API under development for the UAV project,the project involves working with a Raspberry Pi with 1gb ram as the primary 
-computational unit so low resource resource programming is required. The Falcon API framework facilitates efficient communication between the software 
-and hardware systems, enabling precise control and real-time data acquisition.
+My contribution to the API under development for the UAV project involves optimizing software for a Raspberry Pi with 1GB of RAM, necessitating low-resource
+programming. The project utilizes the Falcon API framework to enable efficient communication between software and hardware systems, ensuring precise control
+and real-time data acquisition.
 
 API-->
 
