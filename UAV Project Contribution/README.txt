@@ -1,4 +1,4 @@
-This is my contribution in the API under development for the UAV project,the project involves working with a Raspberry Pi as the primary computational unit and integrating various hardware components, including GPS module, motor, ESC, batteries, servos and camera. The API facilitates efficient communication between the software and hardware systems, enabling precise control and real-time data acquisition. This hands-on project combines expertise in software development, hardware interfacing, and embedded systems to create a fully functional and optimized UAV platform.
+This is my contribution in the API under development for the UAV project,the project involves working with a Raspberry Pi with 1gb ram as the primary computational unit so low resource resource programming is required. The Falcon API facilitates efficient communication between the software and hardware systems, enabling precise control and real-time data acquisition.
 
 API-->
 
